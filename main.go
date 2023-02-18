@@ -7,10 +7,9 @@ import (
 	"os"
 	"strconv"
 	"strings"
-
 	"web_test/csvdecoder"
-	"github.com/gin-gonic/gin"
 	"github.com/braintree/manners"
+	"github.com/gin-gonic/gin"
 )
 
 func main() {
